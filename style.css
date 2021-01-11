@@ -1,0 +1,10 @@
+body{
+  background-image: url(images/office);
+  background-size: cover;
+  background-position: center;
+  
+}
+
+header{
+  height: 20%;
+}
